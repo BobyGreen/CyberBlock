@@ -1,0 +1,8 @@
+keyboard
+Pillow  
+pynput
+cryptography
+pyotp
+qrcode
+pygame
+opencv-python  
