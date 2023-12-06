@@ -74,6 +74,10 @@ To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 git clone https://github.com/BobyGreen/CyberBloock.git
 cd CyberBlock
+chmod +x *.py
+cd Programs
+chmod +x *.py
+cd ..
 sudo python3 CyberBlock.py
 ```
 
