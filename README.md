@@ -40,7 +40,7 @@ $ python 3.10.4
 ```
 Instale las dependencias necesarias con:
 ```shell script
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ## FUNCIONALIDAD
