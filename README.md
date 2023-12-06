@@ -72,7 +72,9 @@ $ pip install -r requirements.txt
 
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-bash TBomb.sh
+git clone https://github.com/BobyGreen/CyberBloock.git
+cd CyberBlock
+sudo python3 CyberBlock.py
 ```
+
+## ESTO ES CYBERBlOCK DE PARTE DE KILLRED Y BOBY
