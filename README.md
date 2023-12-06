@@ -46,6 +46,33 @@ $ pip install -r requirements.txt
 ## FUNCIONALIDAD
 
 > **Estos es paso a paso en orden del funcionamiento de CyberBlock.**
-- 
+- Al iniciar el programa, se generará automáticamente un código QR
+- Será necesario introducir el código que el QR proporciona
+- Crea una contraseña numérica de 4 a 6 dígitos
+- Tras este proceso, el programa se ejecutará en segundo plano
+- Actívalo con una combinación específica de teclas
+- Aparecerá una ventana para ingresar la contraseña establecida
+- Esta ventana limitará el acceso a otras funciones del sistema
+- Tendrás un máximo de tres intentos para ingresar la contraseña
+- Ingresar la contraseña correctamente restablecerá el sistema y cerrará la ventana
+- Si se fallan los tres intentos, el programa activará una alarma y capturará una foto
+- Habrá una cuenta regresiva de 30 segundos antes de reiniciar el proceso
+- En caso de olvidar la contraseña, utiliza un código secundario
+- Este paso requerirá el código del QR para restablecer la contraseña
+- Si decides detener el programa, utiliza una combinación de teclas diferente
+- Se abrirá una ventana similar para el cierre definitivo del programa
+- Esta ventana, al introducir la contraseña correctamente, finalizará el programa
+- No se recomienda mantener activa
+- Esta ventana es exclusivamente para cerrar el programa, no para las funciones de seguridad
+
+
 
 ## INSTALACION Y USO:
+#### Para distribuciones GNU/Linux basadas en Debian
+
+To use the application, type in the following commands in GNU/Linux terminal.
+```shell script
+git clone https://github.com/TheSpeedX/TBomb.git
+cd TBomb
+bash TBomb.sh
+```
