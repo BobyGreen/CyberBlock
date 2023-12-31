@@ -82,18 +82,18 @@ sudo python3 CyberBlock.py
 ```
 
 ## DE PARTE DE LOS DISEÑADORES
-- Esta herramienta fue hecho por un sola persona
-- Es un progrma con diseños antiguos
-- Estamos mejorandola constantemente
-- Ha pasado por varias pruebas con una efectividad del 96% en su tarea
+- Esta herramienta fue hecho por un sola persona.
+- Es un progrma con diseños antiguos.
+- Estamos mejorandola constantemente.
+- Ha pasado por varias pruebas con una efectividad del 96% en su tarea.
 
 
 
 ## APOYO
 - Estamos limitados a mejorar el programa gracias a la 
-economia ayudenos con 1$ [PayPal](https://www.paypal.me/BobyPyment) se lo agradeceriamos mucho
-- Puede comunicarce con nosotros en [Instagram](https://instagram.com/david_rob._)
-- Dame una estrella ★ si te gusto el repositorio
+economia ayudenos con 1$ [PayPal](https://www.paypal.me/BobyPyment) se lo agradeceriamos.
+- Puede comunicarce con nosotros en [Instagram](https://instagram.com/david_rob._).
+- Dame una estrella ★ si te gusto el repositorio.
 
 
 
