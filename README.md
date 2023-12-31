@@ -81,4 +81,23 @@ cd ..
 sudo python3 CyberBlock.py
 ```
 
-## ESTO ES CYBERBlOCK DE PARTE DE KILLRED Y BOBY
+## DE PARTE DE LOS DISEÑADORES
+- Esta herramienta fue hecho por un menor de edad
+- Es un progrma con diseños antiguos
+- Estamos mejorandola constante mente
+- Ha pasado por varias pruebas con una efectividad del 96% en su tarea
+
+
+
+## APOYO
+- Estamos limitados a mejorar el programa gracias a la 
+economia ayudenos con 1$ [PayPal](https://www.paypal.me/BobyPyment)
+
+-Dame una estrella ★ si te gusto el repositorio
+
+<p align="right"> Last FAQ Update: 08.08.2021 </p>
+
+
+
+
+
