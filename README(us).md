@@ -89,6 +89,14 @@ sudo python3 CyberBlock.py
 
 
 
+## SUPPORT
+ - We are limited to improving the program thanks to the 
+ economy, help us with $1 [PayPal](https://www.paypal.me/BobyPyment) we would appreciate it.
+ - You can contact us on [Instagram](https://instagram.com/david_rob._).
+ - Give me a star ★ if you liked the repository.
+
+
+
 
 
 
